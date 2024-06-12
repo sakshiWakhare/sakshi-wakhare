@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **HTML,CSS,PHP, JAVA**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT, JAVA**
 
 - 📫 How to reach me **wakharesakshi2@gmail.com**
 
