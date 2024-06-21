@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sakshi wakhare</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshiwakhare&label=Profile%20views&color=0e75b6&style=flat" alt="sakshiwakhare" /> </p>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foptimyzeus.com%2F5-facts-about-women-in-programming%2F&psig=AOvVaw1nw--cDpBf04dhdAPk1B_t&ust=1716645900267000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCbhLu6poYDFQAAAAAdAAAAABAZ">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&psig=AOvVaw2kQDsdM2ISXOtT_GpBERGu&ust=1719031025381000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCdpuPv64YDFQAAAAAdAAAAABAE">
 
 - 🌱 I’m currently learning **AWS**
 
